@@ -9,3 +9,6 @@ Primero que todo, ¿Qué es un framework? Pues un framework es una "Estructura p
 Y ahora si, Spring es un framework de código abierto para la creación de apliaciones empresariales, tiene una estructura modular y una gran flexibilidad para implementar diferentes tipos de arquitecturas según las necesidades de la aplicación.
 
 ![Spring_Runtime](images/springruntime.png)
+
+##  Spring Container y Beans
+Un contenedor crea objetos, los une, los configura y administra su ciclo de vida completamente. Los Beans son objetos que maneja el contendor de spring (Spring Container).
