@@ -1,5 +1,4 @@
 # Java Spring Framework
-<img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
 ## 📔 Spring 1
 ##  ¿Qué es Spring Framework?
 Primero que todo, ¿Qué es un framework? Pues un framework es una "Estructura predefinida" para construir algo completamente, desde el inicio hasta el final, y no tan solo la estructura si no tambien el conjunto de funcionalidades que tu vas a necesitar.😮
