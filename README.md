@@ -10,5 +10,7 @@ Y ahora si, Spring es un framework de código abierto para la creación de aplia
 
 ![Spring_Runtime](images/springruntime.png)
 
+##  Core Spring
+
 ##  Spring Container y Beans
 Un contenedor crea objetos, los une, los configura y administra su ciclo de vida completamente. Los Beans son objetos que maneja el contendor de spring (Spring Container).
